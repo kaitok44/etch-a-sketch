@@ -21,3 +21,12 @@ body  {
 .clear-button  {
     margin-bottom: 10px;
 }
+
+.footer {
+    margin: 10px;
+    height: 60px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
