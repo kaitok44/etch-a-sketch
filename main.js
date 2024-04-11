@@ -1,5 +1,6 @@
 const container = document.querySelector(".container");
-const clearButton =  document.querySelector("button");
+const clearButton =  document.querySelector(".clear-button");
+const resetButton =  document.querySelector(".reset-button");
 
 // generating random color
 function setRandomColor(){
